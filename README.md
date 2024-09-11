@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumy85&label=Profile%20views&color=0e75b6&style=flat" alt="saumy85" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumy85" alt="saumy85" /></a> </p>
-
 - 🌱 I’m currently learning **Web Sockets**
 
 - 👨‍💻 All of my projects are available at [https://saumy85.github.io/New-portfolio/](https://saumy85.github.io/New-portfolio/)
