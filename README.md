@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumy85&label=Profile%20views&color=0e75b6&style=flat" alt="saumy85" /> </p>
 
-- 🌱 I’m currently learning **Web Sockets**
+- 🌱 I’m currently working as a Software developer at UKG Noida**
 
 - 👨‍💻 All of my projects are available at [https://saumy85.github.io/New-portfolio/](https://saumy85.github.io/New-portfolio/)
 
